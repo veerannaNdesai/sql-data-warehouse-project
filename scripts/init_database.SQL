@@ -1,3 +1,19 @@
+/*
+===================================
+CREATE DATABASES AND SCHEMAS
+===================================
+
+SCRIPT PURPOSE - to check whether databse already exists or not and if yes drop and create a brand new database and 
+use the created databse.
+create new schemas/containers in the database names bronze,silver and gold to load the tables in here.
+
+WARNING --
+the script checks the existence of database if yes it deletes the entire data from the database. so please proceed with  
+caution and keep go if you have thge backup data.
+
+
+*/
+
 -- DATA WAREHOUSE PROJECT
 
 use master;
