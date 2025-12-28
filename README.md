@@ -18,7 +18,7 @@ The project is designed as a **portfolio-grade data engineering project**, highl
 
 ## 🏗️ Architecture – Medallion Pattern
 The project follows the **industry-standard Medallion Data Architecture**:
-
+<img width="766" height="502" alt="data_architecture" src="https://github.com/user-attachments/assets/4b5d3f2b-a126-4d49-9727-6d861ee10098" />
 
 ### 🔹 Bronze Layer – Raw Ingestion
 - Raw data ingestion from source systems
